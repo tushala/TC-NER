@@ -4,5 +4,5 @@
 __pycache__
 *.bin
 *.pth
-*.log
+
 *.ipynb

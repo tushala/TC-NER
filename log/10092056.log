@@ -1,0 +1,253 @@
+10-09 20:59:01 - INFO: Train epoch: 1/12, loss: 294.176
+10-09 20:59:13 - INFO: Eval epoch 1 f1: 9.367681498828161e-14, precision: 1.0, recall:4.6838407494143e-14
+10-09 21:01:57 - INFO: Train epoch: 2/12, loss: 101.851
+10-09 21:02:09 - INFO: Eval epoch 2 f1: 8.616975441619248e-14, precision: 5.376344086018615e-13, recall:4.6838407494143e-14
+10-09 21:04:51 - INFO: Train epoch: 3/12, loss: 30.811
+10-09 21:05:03 - INFO: Eval epoch 3 f1: 0.4183478445530084, precision: 0.38267288267290667, recall:0.4613583138173554
+10-09 21:07:47 - INFO: Train epoch: 4/12, loss: 309.226
+10-09 21:07:59 - INFO: Eval epoch 4 f1: 0.62564526120175, precision: 0.5594534711964713, recall:0.7096018735363133
+10-09 21:10:42 - INFO: Train epoch: 5/12, loss: 48.230
+10-09 21:10:54 - INFO: Eval epoch 5 f1: 0.6940206185567136, precision: 0.6198895027624449, recall:0.7882903981264736
+10-09 21:10:54 - INFO: cv0 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.6940.pth, best_score=0.6940206185567136
+10-09 21:13:37 - INFO: Train epoch: 6/12, loss: 61.763
+10-09 21:13:49 - INFO: Eval epoch 6 f1: 0.6920327937776038, precision: 0.6277650648360172, recall:0.7709601873536407
+10-09 21:13:49 - INFO: cv0 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.6920.pth, best_score=0.6940206185567136
+10-09 21:16:31 - INFO: Train epoch: 7/12, loss: 30.055
+10-09 21:16:43 - INFO: Eval epoch 7 f1: 0.6979783540943558, precision: 0.618754525706024, recall:0.8004683840749508
+10-09 21:16:43 - INFO: cv0 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.6980.pth, best_score=0.6979783540943558
+10-09 21:19:25 - INFO: Train epoch: 8/12, loss: 111.560
+10-09 21:19:37 - INFO: Eval epoch 8 f1: 0.7069786705322135, precision: 0.6336302895323076, recall:0.7995316159250679
+10-09 21:19:37 - INFO: cv0 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.7070.pth, best_score=0.7069786705322135
+10-09 21:22:20 - INFO: Train epoch: 9/12, loss: 73.921
+10-09 21:22:31 - INFO: Eval epoch 9 f1: 0.6547951083458633, precision: 0.6041171813143467, recall:0.714754098360669
+10-09 21:25:13 - INFO: Train epoch: 10/12, loss: 50.013
+10-09 21:25:25 - INFO: Eval epoch 10 f1: 0.667533030106144, precision: 0.6208702659146003, recall:0.7217798594847905
+10-09 21:28:07 - INFO: Train epoch: 11/12, loss: 33.413
+10-09 21:28:19 - INFO: Eval epoch 11 f1: 0.6828541001065097, precision: 0.6261718750000146, recall:0.7508196721311592
+10-09 21:28:19 - INFO: cv0 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.6829.pth, best_score=0.7069786705322135
+10-09 21:31:04 - INFO: Train epoch: 12/12, loss: 84.597
+10-09 21:31:16 - INFO: Eval epoch 12 f1: 0.6912363402614231, precision: 0.6370458135861123, recall:0.7555035128805735
+10-09 21:31:16 - INFO: cv0 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.6912.pth, best_score=0.7069786705322135
+10-09 21:31:17 - INFO: cv0 best_score=0.7069786705322135
+10-09 21:34:01 - INFO: Train epoch: 1/12, loss: 84.378
+10-09 21:34:13 - INFO: Eval epoch 1 f1: 0.7988394584139342, precision: 0.7398781798638574, recall:0.8680117696511195
+10-09 21:34:13 - INFO: cv1 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.7988.pth, best_score=0.7988394584139342
+10-09 21:36:58 - INFO: Train epoch: 2/12, loss: 57.426
+10-09 21:37:10 - INFO: Eval epoch 2 f1: 0.8066995073891703, precision: 0.7592729970326498, recall:0.8604455653636041
+10-09 21:37:10 - INFO: cv1 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.8067.pth, best_score=0.8066995073891703
+10-09 21:39:55 - INFO: Train epoch: 3/12, loss: 31.689
+10-09 21:40:07 - INFO: Eval epoch 3 f1: 0.8070720808237885, precision: 0.7503612716763096, recall:0.8730559058427965
+10-09 21:40:07 - INFO: cv1 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.8071.pth, best_score=0.8070720808237885
+10-09 21:42:52 - INFO: Train epoch: 4/12, loss: 49.537
+10-09 21:43:04 - INFO: Eval epoch 4 f1: 0.8124377117799556, precision: 0.7725549658832535, recall:0.8566624632198463
+10-09 21:43:04 - INFO: cv1 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.8124.pth, best_score=0.8124377117799556
+10-09 21:45:49 - INFO: Train epoch: 5/12, loss: 43.133
+10-09 21:46:01 - INFO: Eval epoch 5 f1: 0.7921919479463281, precision: 0.7672311933832309, recall:0.8188314417822691
+10-09 21:46:01 - INFO: cv1 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.7922.pth, best_score=0.8124377117799556
+10-09 21:48:46 - INFO: Train epoch: 6/12, loss: 21.819
+10-09 21:48:58 - INFO: Eval epoch 6 f1: 0.7973568281938407, precision: 0.7613766730401621, recall:0.8369062631357782
+10-09 21:48:58 - INFO: cv1 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.7974.pth, best_score=0.8124377117799556
+10-09 21:51:43 - INFO: Train epoch: 7/12, loss: 16.461
+10-09 21:51:55 - INFO: Eval epoch 7 f1: 0.7923712151002834, precision: 0.7443664573328502, recall:0.8469945355191321
+10-09 21:51:55 - INFO: cv1 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.7924.pth, best_score=0.8124377117799556
+10-09 21:54:40 - INFO: Train epoch: 8/12, loss: 13.278
+10-09 21:54:52 - INFO: Eval epoch 8 f1: 0.795745519007296, precision: 0.7487027427724333, recall:0.8490962589323309
+10-09 21:54:52 - INFO: cv1 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.7957.pth, best_score=0.8124377117799556
+10-09 21:57:38 - INFO: Train epoch: 9/12, loss: 18.825
+10-09 21:57:50 - INFO: Eval epoch 9 f1: 0.801167315175105, precision: 0.7457442955451016, recall:0.8654897015552809
+10-09 21:57:50 - INFO: cv1 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.8012.pth, best_score=0.8124377117799556
+10-09 22:00:36 - INFO: Train epoch: 10/12, loss: 38.916
+10-09 22:00:48 - INFO: Eval epoch 10 f1: 0.7937587517503583, precision: 0.7572519083969559, recall:0.8339638503572999
+10-09 22:00:48 - INFO: cv1 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.7938.pth, best_score=0.8124377117799556
+10-09 22:03:34 - INFO: Train epoch: 11/12, loss: 0.993
+10-09 22:03:47 - INFO: Eval epoch 11 f1: 0.7824335213537558, precision: 0.7512572533849226, recall:0.8163093736864306
+10-09 22:03:47 - INFO: cv1 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.7824.pth, best_score=0.8124377117799556
+10-09 22:06:33 - INFO: Train epoch: 12/12, loss: 7.746
+10-09 22:06:45 - INFO: Eval epoch 12 f1: 0.7896114354741377, precision: 0.7577279752704885, recall:0.8242959226565858
+10-09 22:06:45 - INFO: cv1 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.7896.pth, best_score=0.8124377117799556
+10-09 22:06:45 - INFO: cv1 best_score=0.8124377117799556
+10-09 22:09:30 - INFO: Train epoch: 1/12, loss: 7.264
+10-09 22:09:42 - INFO: Eval epoch 1 f1: 0.9143977346983265, precision: 0.8867765103506596, recall:0.9437949640287795
+10-09 22:09:42 - INFO: cv2 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9144.pth, best_score=0.9143977346983265
+10-09 22:12:26 - INFO: Train epoch: 2/12, loss: 7.267
+10-09 22:12:38 - INFO: Eval epoch 2 f1: 0.9175235178298001, precision: 0.8934810396250578, recall:0.9428956834532399
+10-09 22:12:38 - INFO: cv2 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9175.pth, best_score=0.9175235178298001
+10-09 22:15:21 - INFO: Train epoch: 3/12, loss: 9.340
+10-09 22:15:33 - INFO: Eval epoch 3 f1: 0.9077859939103998, precision: 0.8791069924178653, recall:0.9383992805755423
+10-09 22:15:33 - INFO: cv2 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9078.pth, best_score=0.9175235178298001
+10-09 22:18:14 - INFO: Train epoch: 4/12, loss: 18.073
+10-09 22:18:26 - INFO: Eval epoch 4 f1: 0.9123497267759602, precision: 0.8877073585708257, recall:0.9383992805755423
+10-09 22:18:26 - INFO: cv2 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9123.pth, best_score=0.9175235178298001
+10-09 22:21:10 - INFO: Train epoch: 5/12, loss: 12.095
+10-09 22:21:21 - INFO: Eval epoch 5 f1: 0.8924268502581802, precision: 0.8556105610561116, recall:0.9325539568345355
+10-09 22:21:21 - INFO: cv2 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.8924.pth, best_score=0.9175235178298001
+10-09 22:24:03 - INFO: Train epoch: 6/12, loss: 0.239
+10-09 22:24:14 - INFO: Eval epoch 6 f1: 0.9083752460091884, precision: 0.8842060451255903, recall:0.9339028776978447
+10-09 22:24:14 - INFO: cv2 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9084.pth, best_score=0.9175235178298001
+10-09 22:26:57 - INFO: Train epoch: 7/12, loss: 5.938
+10-09 22:27:09 - INFO: Eval epoch 7 f1: 0.903140786294755, precision: 0.8827823100042987, recall:0.9244604316546796
+10-09 22:27:09 - INFO: cv2 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9031.pth, best_score=0.9175235178298001
+10-09 22:29:54 - INFO: Train epoch: 8/12, loss: 16.987
+10-09 22:30:06 - INFO: Eval epoch 8 f1: 0.8907162951742096, precision: 0.8585732165206568, recall:0.9253597122302192
+10-09 22:30:06 - INFO: cv2 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.8907.pth, best_score=0.9175235178298001
+10-09 22:32:49 - INFO: Train epoch: 9/12, loss: 3.286
+10-09 22:33:01 - INFO: Eval epoch 9 f1: 0.8970013037809693, precision: 0.8679562657695598, recall:0.9280575539568378
+10-09 22:33:01 - INFO: cv2 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.8970.pth, best_score=0.9175235178298001
+10-09 22:35:44 - INFO: Train epoch: 10/12, loss: 9.000
+10-09 22:35:55 - INFO: Eval epoch 10 f1: 0.8967784352399782, precision: 0.8747327917913692, recall:0.919964028776982
+10-09 22:35:55 - INFO: cv2 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.8968.pth, best_score=0.9175235178298001
+10-09 22:38:39 - INFO: Train epoch: 11/12, loss: 5.928
+10-09 22:38:51 - INFO: Eval epoch 11 f1: 0.8913378884725638, precision: 0.8741893644617434, recall:0.9091726618705077
+10-09 22:38:51 - INFO: cv2 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.8913.pth, best_score=0.9175235178298001
+10-09 22:41:34 - INFO: Train epoch: 12/12, loss: 12.645
+10-09 22:41:45 - INFO: Eval epoch 12 f1: 0.8844221105527688, precision: 0.8601784955376175, recall:0.9100719424460472
+10-09 22:41:45 - INFO: cv2 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.8844.pth, best_score=0.9175235178298001
+10-09 22:41:46 - INFO: cv2 best_score=0.9175235178298001
+10-09 22:44:28 - INFO: Train epoch: 1/12, loss: 5.501
+10-09 22:44:39 - INFO: Eval epoch 1 f1: 0.9576363241364345, precision: 0.9549393414211458, recall:0.9603485838779974
+10-09 22:44:39 - INFO: cv3 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9576.pth, best_score=0.9576363241364345
+10-09 22:47:22 - INFO: Train epoch: 2/12, loss: 7.957
+10-09 22:47:34 - INFO: Eval epoch 2 f1: 0.9652476107732423, precision: 0.9623213512343022, recall:0.968191721132899
+10-09 22:47:34 - INFO: cv3 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9652.pth, best_score=0.9652476107732423
+10-09 22:50:16 - INFO: Train epoch: 3/12, loss: 5.426
+10-09 22:50:28 - INFO: Eval epoch 3 f1: 0.9579904720658312, precision: 0.9522169608265195, recall:0.9638344226579536
+10-09 22:50:28 - INFO: cv3 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9580.pth, best_score=0.9652476107732423
+10-09 22:53:10 - INFO: Train epoch: 4/12, loss: 6.564
+10-09 22:53:22 - INFO: Eval epoch 4 f1: 0.9578378378378397, precision: 0.9506437768240364, recall:0.9651416122004373
+10-09 22:53:22 - INFO: cv3 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9578.pth, best_score=0.9652476107732423
+10-09 22:56:04 - INFO: Train epoch: 5/12, loss: 11.968
+10-09 22:56:16 - INFO: Eval epoch 5 f1: 0.9575705362911928, precision: 0.9467632027257263, recall:0.9686274509803935
+10-09 22:56:16 - INFO: cv3 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9576.pth, best_score=0.9652476107732423
+10-09 22:59:01 - INFO: Train epoch: 6/12, loss: 12.349
+10-09 22:59:13 - INFO: Eval epoch 6 f1: 0.9528158295281605, precision: 0.9509548611111133, recall:0.9546840958605685
+10-09 22:59:13 - INFO: cv3 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9528.pth, best_score=0.9652476107732423
+10-09 23:01:57 - INFO: Train epoch: 7/12, loss: 10.814
+10-09 23:02:09 - INFO: Eval epoch 7 f1: 0.9620308092861808, precision: 0.9580812445981003, recall:0.9660130718954263
+10-09 23:02:09 - INFO: cv3 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9620.pth, best_score=0.9652476107732423
+10-09 23:04:54 - INFO: Train epoch: 8/12, loss: 8.579
+10-09 23:05:05 - INFO: Eval epoch 8 f1: 0.9506065857885637, precision: 0.9452822059457154, recall:0.955991285403052
+10-09 23:05:05 - INFO: cv3 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9506.pth, best_score=0.9652476107732423
+10-09 23:07:50 - INFO: Train epoch: 9/12, loss: 5.591
+10-09 23:08:02 - INFO: Eval epoch 9 f1: 0.9567099567099586, precision: 0.9505376344086043, recall:0.9629629629629646
+10-09 23:08:02 - INFO: cv3 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9567.pth, best_score=0.9652476107732423
+10-09 23:10:47 - INFO: Train epoch: 10/12, loss: 12.358
+10-09 23:10:59 - INFO: Eval epoch 10 f1: 0.95302013422819, precision: 0.9470740103270247, recall:0.9590413943355137
+10-09 23:10:59 - INFO: cv3 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9530.pth, best_score=0.9652476107732423
+10-09 23:13:43 - INFO: Train epoch: 11/12, loss: 0.575
+10-09 23:13:55 - INFO: Eval epoch 11 f1: 0.9517657192075817, precision: 0.9408258833546215, recall:0.9629629629629646
+10-09 23:13:55 - INFO: cv3 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9518.pth, best_score=0.9652476107732423
+10-09 23:16:38 - INFO: Train epoch: 12/12, loss: 4.391
+10-09 23:16:49 - INFO: Eval epoch 12 f1: 0.9507844401461444, precision: 0.9380831212892308, recall:0.9638344226579536
+10-09 23:16:49 - INFO: cv3 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9508.pth, best_score=0.9652476107732423
+10-09 23:16:50 - INFO: cv3 best_score=0.9652476107732423
+10-09 23:19:34 - INFO: Train epoch: 1/12, loss: 1.689
+10-09 23:19:46 - INFO: Eval epoch 1 f1: 0.9827005167378126, precision: 0.9776486365668315, recall:0.987804878048781
+10-09 23:19:46 - INFO: cv4 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9827.pth, best_score=0.9827005167378126
+10-09 23:22:31 - INFO: Train epoch: 2/12, loss: 0.732
+10-09 23:22:43 - INFO: Eval epoch 2 f1: 0.982716049382717, precision: 0.9767960731816164, recall:0.988708220415538
+10-09 23:22:43 - INFO: cv4 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9827.pth, best_score=0.982716049382717
+10-09 23:25:27 - INFO: Train epoch: 3/12, loss: 0.530
+10-09 23:25:38 - INFO: Eval epoch 3 f1: 0.9831422791638578, precision: 0.9785234899328868, recall:0.987804878048781
+10-09 23:25:38 - INFO: cv4 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9831.pth, best_score=0.9831422791638578
+10-09 23:28:21 - INFO: Train epoch: 4/12, loss: 3.169
+10-09 23:28:32 - INFO: Eval epoch 4 f1: 0.9826927399415606, precision: 0.978076062639822, recall:0.9873532068654025
+10-09 23:28:32 - INFO: cv4 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9827.pth, best_score=0.9831422791638578
+10-09 23:31:15 - INFO: Train epoch: 5/12, loss: 5.763
+10-09 23:31:27 - INFO: Eval epoch 5 f1: 0.978809738503157, precision: 0.9770477047704781, recall:0.9805781391147254
+10-09 23:31:27 - INFO: cv4 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9788.pth, best_score=0.9831422791638578
+10-09 23:34:09 - INFO: Train epoch: 6/12, loss: 0.681
+10-09 23:34:21 - INFO: Eval epoch 6 f1: 0.9784463403682093, precision: 0.9727678571428584, recall:0.9841915085817532
+10-09 23:34:21 - INFO: cv4 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9784.pth, best_score=0.9831422791638578
+10-09 23:37:03 - INFO: Train epoch: 7/12, loss: 0.417
+10-09 23:37:15 - INFO: Eval epoch 7 f1: 0.9784656796769862, precision: 0.9719251336898408, recall:0.9850948509485101
+10-09 23:37:15 - INFO: cv4 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9785.pth, best_score=0.9831422791638578
+10-09 23:39:58 - INFO: Train epoch: 8/12, loss: 0.870
+10-09 23:40:09 - INFO: Eval epoch 8 f1: 0.980445043830075, precision: 0.9758389261744977, recall:0.9850948509485101
+10-09 23:40:09 - INFO: cv4 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9804.pth, best_score=0.9831422791638578
+10-09 23:42:55 - INFO: Train epoch: 9/12, loss: 20.005
+10-09 23:43:07 - INFO: Eval epoch 9 f1: 0.9720295368091307, precision: 0.9631929046563209, recall:0.9810298102981039
+10-09 23:43:07 - INFO: cv4 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9720.pth, best_score=0.9831422791638578
+10-09 23:45:53 - INFO: Train epoch: 10/12, loss: 5.384
+10-09 23:46:04 - INFO: Eval epoch 10 f1: 0.97447380206001, precision: 0.9662522202486693, recall:0.9828364950316177
+10-09 23:46:04 - INFO: cv4 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9745.pth, best_score=0.9831422791638578
+10-09 23:48:47 - INFO: Train epoch: 11/12, loss: 5.436
+10-09 23:48:59 - INFO: Eval epoch 11 f1: 0.9761690647482024, precision: 0.9717994628469127, recall:0.9805781391147254
+10-09 23:48:59 - INFO: cv4 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9762.pth, best_score=0.9831422791638578
+10-09 23:51:42 - INFO: Train epoch: 12/12, loss: 2.781
+10-09 23:51:53 - INFO: Eval epoch 12 f1: 0.9705488621151286, precision: 0.9589947089947108, recall:0.9823848238482393
+10-09 23:51:53 - INFO: cv4 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9705.pth, best_score=0.9831422791638578
+10-09 23:51:54 - INFO: cv4 best_score=0.9831422791638578
+10-09 23:54:36 - INFO: Train epoch: 1/12, loss: 31.203
+10-09 23:54:47 - INFO: Eval epoch 1 f1: 0.9924141008478362, precision: 0.991087344028521, recall:0.9937444146559431
+10-09 23:54:47 - INFO: cv5 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9924.pth, best_score=0.9924141008478362
+10-09 23:57:29 - INFO: Train epoch: 2/12, loss: 2.639
+10-09 23:57:41 - INFO: Eval epoch 2 f1: 0.9946452476572961, precision: 0.9933155080213907, recall:0.9959785522788206
+10-09 23:57:41 - INFO: cv5 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9946.pth, best_score=0.9946452476572961
+10-10 00:00:23 - INFO: Train epoch: 3/12, loss: 1.547
+10-10 00:00:35 - INFO: Eval epoch 3 f1: 0.9937444146559431, precision: 0.9937444146559431, recall:0.9937444146559431
+10-10 00:00:35 - INFO: cv5 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9937.pth, best_score=0.9946452476572961
+10-10 00:03:17 - INFO: Train epoch: 4/12, loss: 3.436
+10-10 00:03:28 - INFO: Eval epoch 4 f1: 0.9935224480679029, precision: 0.9933005806163469, recall:0.9937444146559431
+10-10 00:03:28 - INFO: cv5 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9935.pth, best_score=0.9946452476572961
+10-10 00:06:12 - INFO: Train epoch: 5/12, loss: 1.440
+10-10 00:06:24 - INFO: Eval epoch 5 f1: 0.9903996427774062, precision: 0.9897367246764842, recall:0.9910634495084901
+10-10 00:06:24 - INFO: cv5 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9904.pth, best_score=0.9946452476572961
+10-10 00:09:06 - INFO: Train epoch: 6/12, loss: 1.562
+10-10 00:09:18 - INFO: Eval epoch 6 f1: 0.9904210291824465, precision: 0.9875610839626838, recall:0.9932975871313676
+10-10 00:09:18 - INFO: cv5 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9904.pth, best_score=0.9946452476572961
+10-10 00:12:02 - INFO: Train epoch: 7/12, loss: 18.880
+10-10 00:12:14 - INFO: Eval epoch 7 f1: 0.988439306358382, precision: 0.9836283185840715, recall:0.9932975871313676
+10-10 00:12:14 - INFO: cv5 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9884.pth, best_score=0.9946452476572961
+10-10 00:14:59 - INFO: Train epoch: 8/12, loss: 1.583
+10-10 00:15:11 - INFO: Eval epoch 8 f1: 0.989755011135858, precision: 0.9866785079928958, recall:0.9928507596067921
+10-10 00:15:11 - INFO: cv5 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9898.pth, best_score=0.9946452476572961
+10-10 00:17:56 - INFO: Train epoch: 9/12, loss: 0.659
+10-10 00:18:08 - INFO: Eval epoch 9 f1: 0.9879679144385032, precision: 0.985333333333334, recall:0.9906166219839146
+10-10 00:18:08 - INFO: cv5 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9880.pth, best_score=0.9946452476572961
+10-10 00:20:53 - INFO: Train epoch: 10/12, loss: 3.571
+10-10 00:21:05 - INFO: Eval epoch 10 f1: 0.9899754956560487, precision: 0.9871168369613511, recall:0.9928507596067921
+10-10 00:21:05 - INFO: cv5 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9900.pth, best_score=0.9946452476572961
+10-10 00:23:50 - INFO: Train epoch: 11/12, loss: 0.451
+10-10 00:24:02 - INFO: Eval epoch 11 f1: 0.9879679144385032, precision: 0.985333333333334, recall:0.9906166219839146
+10-10 00:24:02 - INFO: cv5 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9880.pth, best_score=0.9946452476572961
+10-10 00:26:48 - INFO: Train epoch: 12/12, loss: 1.253
+10-10 00:26:59 - INFO: Eval epoch 12 f1: 0.987122557726466, precision: 0.9810238305383945, recall:0.9932975871313676
+10-10 00:26:59 - INFO: cv5 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9871.pth, best_score=0.9946452476572961
+10-10 00:27:00 - INFO: cv5 best_score=0.9946452476572961
+10-10 00:29:43 - INFO: Train epoch: 1/12, loss: 1.325
+10-10 00:29:55 - INFO: Eval epoch 1 f1: 0.9949685534591197, precision: 0.9949685534591197, recall:0.9949685534591197
+10-10 00:29:55 - INFO: cv6 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9950.pth, best_score=0.9949685534591197
+10-10 00:32:38 - INFO: Train epoch: 2/12, loss: 0.383
+10-10 00:32:49 - INFO: Eval epoch 2 f1: 0.9945492662473797, precision: 0.9945492662473797, recall:0.9945492662473797
+10-10 00:32:49 - INFO: cv6 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9945.pth, best_score=0.9949685534591197
+10-10 00:35:32 - INFO: Train epoch: 3/12, loss: 1.074
+10-10 00:35:44 - INFO: Eval epoch 3 f1: 0.9937238493723851, precision: 0.9916492693110651, recall:0.9958071278825997
+10-10 00:35:44 - INFO: cv6 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9937.pth, best_score=0.9949685534591197
+10-10 00:38:29 - INFO: Train epoch: 4/12, loss: 1.082
+10-10 00:38:40 - INFO: Eval epoch 4 f1: 0.9933054393305443, precision: 0.9912317327766184, recall:0.9953878406708597
+10-10 00:38:40 - INFO: cv6 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9933.pth, best_score=0.9949685534591197
+10-10 00:41:26 - INFO: Train epoch: 5/12, loss: 0.447
+10-10 00:41:37 - INFO: Eval epoch 5 f1: 0.9939317848922371, precision: 0.9920634920634924, recall:0.9958071278825997
+10-10 00:41:37 - INFO: cv6 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9939.pth, best_score=0.9949685534591197
+10-10 00:44:23 - INFO: Train epoch: 6/12, loss: 2.191
+10-10 00:44:35 - INFO: Eval epoch 6 f1: 0.9893193717277491, precision: 0.9882845188284524, recall:0.9903563941299794
+10-10 00:44:35 - INFO: cv6 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9893.pth, best_score=0.9949685534591197
+10-10 00:47:20 - INFO: Train epoch: 7/12, loss: 1.484
+10-10 00:47:31 - INFO: Eval epoch 7 f1: 0.9926701570680632, precision: 0.9916317991631802, recall:0.9937106918238996
+10-10 00:47:31 - INFO: cv6 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9927.pth, best_score=0.9949685534591197
+10-10 00:50:17 - INFO: Train epoch: 8/12, loss: 11.072
+10-10 00:50:29 - INFO: Eval epoch 8 f1: 0.9937159614578972, precision: 0.9928840519045629, recall:0.9945492662473797
+10-10 00:50:29 - INFO: cv6 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9937.pth, best_score=0.9949685534591197
+10-10 00:53:14 - INFO: Train epoch: 9/12, loss: 0.804
+10-10 00:53:26 - INFO: Eval epoch 9 f1: 0.9893238434163706, precision: 0.9878762541806025, recall:0.9907756813417194
+10-10 00:53:26 - INFO: cv6 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9893.pth, best_score=0.9949685534591197
+10-10 00:56:12 - INFO: Train epoch: 10/12, loss: 0.952
+10-10 00:56:23 - INFO: Eval epoch 10 f1: 0.9918256130790195, precision: 0.9916177703269073, recall:0.9920335429769396
+10-10 00:56:23 - INFO: cv6 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9918.pth, best_score=0.9949685534591197
+10-10 00:59:09 - INFO: Train epoch: 11/12, loss: 5.219
+10-10 00:59:21 - INFO: Eval epoch 11 f1: 0.9889098137685712, precision: 0.9870509607351718, recall:0.9907756813417194
+10-10 00:59:21 - INFO: cv6 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9889.pth, best_score=0.9949685534591197
+10-10 01:02:03 - INFO: Train epoch: 12/12, loss: 4.227
+10-10 01:02:15 - INFO: Eval epoch 12 f1: 0.9863760217983657, precision: 0.986169321039397, recall:0.9865828092243192
+10-10 01:02:15 - INFO: cv6 saving model to /tmp/pycharm_project_821/save_model/bilstm_0.9864.pth, best_score=0.9949685534591197
+10-10 01:02:16 - INFO: cv6 best_score=0.9949685534591197
